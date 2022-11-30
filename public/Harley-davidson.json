@@ -1,0 +1,71 @@
+[
+
+    {
+      "purchase_Price": "$2317.07",
+      "sell_price": "$190.33",
+      "verification":true,
+      "picture": "https://i.ibb.co/0QpLNDg/2022-fat-boy-114.webp",
+      "age": 1,
+      "seller_name": "Farrell Herrera",
+      "product_name": "FAT-Boy-114",
+      "phone": "+880 (849) 534-3733",
+      "address": "760 Keen Court, Nile, Federated States Of Micronesia, 8080",
+      "time":"12:30PM"
+    },
+    {
+      "purchase_Price": "$3,148.37",
+      "sell_price": "$1,805.96",
+      "picture": "https://i.ibb.co/LNbTmc6/2022-forty-eight-f54.webp",
+      "age": 2,
+      "seller_name": "Dena Boyer",
+      "product_name": "fayty-Eight-F54",
+      "phone": "+880 (945) 482-3275",
+      "time":"12:30PM",
+      "address": "748 Knapp Street, Bakersville, West Virginia, 8558"
+    },
+    {
+      "purchase_Price": "$3,172.21",
+      "sell_price": "$976.93",
+      "verification":true,
+      "picture": "https://i.ibb.co/qgj1y6R/2022-iron-883.webp",
+      "age": 1,
+      "seller_name": "Hendrix Blake",
+      "product_name": "Icon-883",
+      "phone": "+880 (969) 546-3406",
+      "time":"12:30PM",
+      "address": "454 Furman Street, Coventry, Rhode Island, 800"
+    },
+    {
+      "purchase_Price": "$2,552.07",
+      "sell_price": "$1700.53",
+      "picture": "https://i.ibb.co/ScMHkYP/2022-low-rider-st.webp",
+      "age": 1,
+      "seller_name": "Whitley Brennan",
+      "product_name": "Low-rider-ST",
+      "phone": "+880 (969) 499-2492",
+      "address": "317 Junius Street, Deercroft, Puerto Rico, 731"
+    },
+    {
+      "purchase_Price": "$1,367.63",
+      "sell_price": "$515.27",
+      "verification":true,
+      "picture": "https://i.ibb.co/9nHTjWT/2022-nightster.webp",
+      "age": 2,
+      "seller_name": "Hart Vance",
+      "product_name": "Night-4s",
+      "phone": "+880 (853) 427-3031",
+      "time":"12:30PM",
+      "address": "294 Newkirk Avenue, Wheaton, Maryland, 4992"
+    },
+    {
+      "purchase_Price": "$3,089.46",
+      "sell_price": "$2,460.54",
+      "picture": "https://i.ibb.co/VLWkTkV/2022-softail-standard-010.webp",
+      "age": 0,
+      "seller_name": "Mullen Travis",
+      "product_name": "Softail-Stan-Dard",
+      "phone": "+880 (924) 429-3443",
+      "time":"12:30PM",
+      "address": "738 Bartlett Place, Lawrence, California, 1175"
+    }
+  ]

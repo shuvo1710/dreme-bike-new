@@ -1,0 +1,71 @@
+[
+    
+    {
+      "purchase_Price": "$2317.07",
+      "sell_price": "$190.33",
+      "picture": "https://i.ibb.co/VY3hLMv/2020-z900.webp",
+      "age": 1,
+      "seller_name": "Farrell Herrera",
+      "product_name": "Kawasaki-Z900",
+      "phone": "+880 (849) 534-3733",
+      "address": "760 Keen Court, Nile, Federated States Of Micronesia, 8080",
+      "time":"12:30PM"
+    },
+    {
+      "purchase_Price": "$3,148.37",
+      "sell_price": "$1,805.96",
+      "verification":true,
+      "picture": "https://i.ibb.co/VHbvP8Q/kawasaki-ninja.webp",
+      "age": 2,
+      "seller_name": "Dena Boyer",
+      "product_name": "Kawasaki Ninja",
+      "phone": "+880 (945) 482-3275",
+      "time":"12:30PM",
+      "address": "748 Knapp Street, Bakersville, West Virginia, 8558"
+    },
+    {
+      "purchase_Price": "$3,172.21",
+      "sell_price": "$976.93",
+      "picture": "https://i.ibb.co/RCsBpgL/kawasaki-ninja-h2.jpg",
+      "age": 1,
+      "seller_name": "Hendrix Blake",
+      "product_name": "Kawasaki Ninja-h-2",
+      "phone": "+880 (969) 546-3406",
+      "time":"12:30PM",
+      "address": "454 Furman Street, Coventry, Rhode Island, 800"
+    },
+    {
+      "purchase_Price": "$2,552.07",
+      "sell_price": "$1700.53",
+      "picture": "https://i.ibb.co/zXyRc9W/kawasaki-ninja-zx.webp",
+      "age": 1,
+      "seller_name": "Whitley Brennan",
+      "product_name": "Kawasaki Ninja Zx",
+      "phone": "+880 (969) 499-2492",
+      "address": "317 Junius Street, Deercroft, Puerto Rico, 731"
+    },
+    {
+      "purchase_Price": "$1,367.63",
+      "sell_price": "$515.27",
+      "verification":true,
+      "picture": "https://i.ibb.co/J3gm289/kawasaki-vulcan-s.webp",
+      "age": 2,
+      "seller_name": "Hart Vance",
+      "product_name": "Kawasaki vulcan",
+      "phone": "+880 (853) 427-3031",
+      "time":"12:30PM",
+      "address": "294 Newkirk Avenue, Wheaton, Maryland, 4992"
+    },
+    {
+      "purchase_Price": "$3,089.46",
+      "sell_price": "$2,460.54",
+      "verification":true,
+      "picture": "https://i.ibb.co/J3gm289/kawasaki-vulcan-s.webp",
+      "age": 0,
+      "seller_name": "Mullen Travis",
+      "product_name": "Ninja-400",
+      "phone": "+880 (924) 429-3443",
+      "time":"12:30PM",
+      "address": "738 Bartlett Place, Lawrence, California, 1175"
+    }
+  ]
